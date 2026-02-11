@@ -1,0 +1,57 @@
+Documentation for Questions Management Feature
+Overview
+
+The Questions Management feature allows event organizers to receive, moderate, and display incoming questions from participants in real-time. This feature also includes functionality for archiving questions, rejecting them, and showing a live word cloud generated from the incoming questions.
+User Interface
+1. Incoming Questions Panel
+
+    Incoming Questions: This section displays all questions submitted by participants in chronological order.
+        Questions include the username (e.g., @tade, @more adam) and the time of submission.
+        Questions are listed with options to Archive, Like, or Reject each question.
+
+2. Questions Controls
+
+    Add Button (+ Add): Use this button to manually add a question to the list.
+    Moderation Toggle: Enable or disable moderation for incoming questions. When enabled, questions will require approval before they are visible to the audience.
+    Filter by Tag: Apply tags to filter questions by relevant categories or themes.
+    Present Button: Used to present the selected question on the main screen during the event.
+
+3. Question Actions
+
+Each question has several actions that can be performed:
+
+    Archive (Arrow Icon): Archive the question so it is no longer displayed in the live question list.
+    Likes (Thumbs-Up Icon): Track the number of likes for each question, showing its popularity among participants.
+    Reject (X Icon): Remove or reject a question from the list if it is not relevant or appropriate.
+
+4. Word Cloud
+
+    Word Cloud: A visual representation of the most frequently used words from the incoming questions. The larger the word, the more frequently it appears in the questions. This provides a quick overview of the most common themes during the session.
+
+5. Other Features
+
+    Video Tutorials Button: Located at the top, this provides video guidance on how to use the questions feature.
+    Notifications Toggle: Enables or disables notifications for new incoming questions.
+    Control Panel / Event Page Buttons: Navigation options to the control panel or event page.
+
+Usage Instructions
+1. Adding a New Question
+
+    Click the + Add button to manually insert a question into the list.
+    Fill in the question details and click submit.
+
+2. Managing Incoming Questions
+
+    Review the incoming questions as they appear in the list.
+    Use the Like button to show approval or Reject to remove inappropriate questions.
+    Use the Archive button to store questions that are no longer relevant but still need to be saved.
+
+3. Presenting a Question
+
+    Select a question from the list.
+    Click the Present button to display the question on the main event screen.
+
+4. Viewing the Word Cloud
+
+    The word cloud will automatically update based on the incoming questions.
+    Use the word cloud to get an instant view of the key topics and terms being discussed.

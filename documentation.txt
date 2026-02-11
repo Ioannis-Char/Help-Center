@@ -1,0 +1,54 @@
+# Documentation for Event Management System
+
+## Overview
+This documentation provides detailed information on how to manage and configure your events using our platform. It includes details about setting up event information, customizing event pages, and managing QR codes and e-tickets.
+
+## Event Information
+
+### Basic Info
+- **Event Name**: The name of your event. This field is mandatory.
+- **Event ID**: A unique identifier for the event. This field is mandatory.
+- **App Link**: URL link to the application associated with the event. Example: [App Link](https://conferience.com/app/qnabot)
+- **Event Page Link**: URL link to the event page. Example: [Event Page Link](https://conferience.com/eventPage/qnabot)
+
+### Dates and Times
+- **Event Date**:
+  - **Start Date**: The date when the event will start.
+  - **Start Time**: The time when the event will commence.
+  - **End Date**: The date when the event will end.
+  - **End Time**: The time when the event will conclude.
+  - **Close Automatically**: Option to close the event automatically after the end time.
+- **Timezone**: The timezone in which the event is scheduled.
+
+### Venue
+- **Venue's Address**: The physical address of the venue where the event will take place. Please ensure that this is typed correctly.
+
+## Event QR Code
+- **QR Code Box Size**: The size of the QR code box, specified in pixels.
+- **Image Size**: Percentage of the QR code image size. Default is 20%.
+
+## Closed Event Screen
+- **Customisation**: Customize the closed event screen that attendees will see when the event is finished.
+
+## E-Ticket Preview
+- **E-Ticket Preview**:
+  - **Event Title**: Title of the event (e.g., "1 qna bot").
+  - **Event Date**: The date of the event (e.g., "September 2nd, 2024").
+  - **Location**: Venue location (to be completed).
+  - **Attendee Information**: First Name, Last Name of the attendee.
+
+## Usage Instructions
+1. **Setting Up Event**:
+   - Fill in the event name, ID, and URL links for the app and event page.
+   - Set the event's start and end date and time, and choose the timezone.
+   - Provide the venue's address.
+
+2. **Customizing Event Page**:
+   - Use the provided fields to add event details and customize the event page with appropriate links and information.
+
+3. **Generating and Customizing QR Codes**:
+   - Specify the box size and image size for the event's QR code.
+
+4. **Previewing E-Tickets**:
+   - Ensure that all fields in the e-ticket preview are filled out correctly and that the ticket information is accurate.
+

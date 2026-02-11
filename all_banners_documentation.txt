@@ -1,0 +1,79 @@
+#Documentation for All Banners Feature
+
+
+##Overview
+The "All Banners" feature allows users to manage and configure banners within the application. This feature provides a user-friendly interface for creating, editing, and organizing banners that can be displayed throughout the application.
+
+##User Interface
+1. Banner Management Panel
+
+    All Banners: When clicking on "All Banners", a panel is displayed with various elements for managing banners.
+
+2. Banner Configuration
+2.1 Title Field
+
+    Enter Title: This text field is used to input or edit the title of the banner. The title is displayed above the banner. Example text: "This text will be displayed above the banner."
+
+2.2 Image Upload
+
+    Image Upload Area: Below the title field, there is an area where users can upload and manage the banner image. Users can click on the image area to upload a new image file for the banner.
+
+2.3 URL Field
+
+    Enter URL: This text field allows users to input or edit the URL associated with the banner. This URL will be used as the destination when users click on the banner.
+
+2.4 Text Editing
+
+    Edit Banner: An icon (usually a pencil) located near the URL field allows users to click and edit the banner's text. This feature enables text formatting and customization.
+
+3. Action Buttons
+3.1 Done
+
+    Done: Button to save the changes made to the banner. Clicking this button will apply any modifications and updates.
+
+3.2 New Banner
+
+    New Banner: Button to create a new banner. This will open a form or panel to set up the details of a new banner.
+
+3.3 New Group of Banners
+
+    New Group of Banners: Button to create a new group of banners. This allows users to organize multiple banners into a group for better management and display.
+
+
+4. Additional Options
+4.1 Menu Options (Top Right, Three Lines Icon)
+
+    Hide Banner: Option to hide the banner from view without deleting it.
+    Hide Title in the App: Option to hide the title of the banner within the application interface.
+    Edit Image: Option to edit the currently uploaded image for the banner.
+    Delete Banner: Option to permanently delete the banner from the system.
+
+Usage Instructions
+5. Creating a New Banner
+
+    Click the New Banner button.
+    Enter the title of the banner in the Enter Title field.
+    Upload the banner image by clicking on the Image Upload Area.
+    Input the desired URL in the Enter URL field.
+    Use the Edit Banner icon to format or modify the text as needed.
+    Click the Done button to save the new banner.
+
+6. Creating a New Group of Banners
+
+    Click the New Group of Banners button.
+    Follow the prompts to set up the new group, which may include naming the group and adding banners to it.
+
+7. Editing an Existing Banner
+
+    Select the banner you wish to edit.
+    Modify the title, image, URL, and text as needed.
+    Click the Done button to apply changes.
+
+8. Managing Banner Options
+
+    Click the three-line icon (menu) at the top right of the banner panel.
+    Choose from the following options:
+        Hide Banner: Hide the banner from view.
+        Hide Title in the App: Hide the banner title.
+        Edit Image: Edit the current banner image.
+        Delete Banner: Delete the banner permanently.

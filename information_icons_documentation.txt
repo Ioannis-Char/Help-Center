@@ -1,0 +1,92 @@
+#Documentation for Information Icons Feature
+Overview
+
+The "Information Icons" feature allows users to manage and configure information icons within the application. These icons can be used to provide additional information about events, organizers, or transportation to users. The feature provides an interface for adding, editing, and managing these icons.
+User Interface
+1. Information Icons Panel
+
+    Information Icons: When selecting "Information Icons", the panel provides an option to add new icons and manage existing ones.
+
+2. Add New Icon
+
+    Add New: Button to create a new information icon. Clicking this button reveals three options for the type of information to be added:
+
+2.1 Add Event Info
+
+    Add Event Info: Provides the ability to add details related to an event.
+        Post a short description about your event: Allows users to add a brief description of the event.
+
+2.2 Organizer Profile
+
+    Organizer Profile: Allows users to add information about the event organizer.
+        Type a short profile of the organizer: Provides a field to input a brief profile of the event organizer.
+
+2.3 Taxi Information
+
+    Taxi Information: Allows users to add transportation details for participants.
+        Make transportation easy, add taxi information for your participants: Provides a field to input taxi or transportation details.
+
+3. Adding Event Info
+3.1 Event Info Setup
+
+    Add Event Info: Clicking this option opens a panel where users can configure the information icon.
+        Add New Icon: Button to upload or select a new icon for the event info.
+        Title of the Information Icon: Field to enter the title or name of the information icon.
+        Description of the Information Icon: Field to enter a description that will be displayed along with the icon.
+
+3.2 Next Steps
+
+    Next: Clicking this button moves to the next setup step.
+        Add New Icon or Select an Already Created Banner: Option to either upload a new icon or select from existing icons.
+        Publish Information Icon to the App: Option to make the icon live and visible in the application.
+
+3.3 Finish
+
+    Finish: Button to finalize the setup of the information icon. The icon will be added to the list of information icons where users can edit, delete, or duplicate it.
+
+4. Managing Information Icons
+4.1 Edit
+
+    Edit: Allows users to modify the title, description, or icon of an existing information icon.
+
+4.2 Delete
+
+    Delete: Option to permanently remove the information icon from the system.
+
+4.3 Duplicate
+
+    Duplicate: Option to create a copy of an existing information icon.
+
+Usage Instructions
+5. Adding a New Information Icon
+
+    Click the Add New button.
+    Choose one of the following options:
+        Add Event Info: For event-related information.
+        Organizer Profile: For information about the event organizer.
+        Taxi Information: For transportation details.
+    For Add Event Info:
+        Enter the Title of the Information Icon.
+        Enter the Description of the Information Icon.
+        Click Next to proceed.
+        Upload or select an icon and choose to Publish Information Icon to the App.
+        Click Finish to save and finalize the new icon.
+
+6. Editing an Existing Information Icon
+
+    Select the information icon you wish to edit from the list.
+    Modify the title, description, or icon as needed.
+    Click Save to apply changes.
+
+7. Deleting an Information Icon
+
+    Select the information icon you wish to delete from the list.
+    Click the Delete button.
+    Confirm the deletion when prompted.
+
+8. Duplicating an Information Icon
+
+    Select the information icon you wish to duplicate from the list.
+    Click the Duplicate button.
+    Modify the duplicated icon as needed.
+    Click Save to apply changes.

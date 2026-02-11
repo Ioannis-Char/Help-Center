@@ -1,0 +1,66 @@
+#Documentation for Announcements / Popups Feature
+
+##Overview
+
+This documentation provides detailed information on how to implement an Announcements or Popups feature in a web application. This feature is designed to display important messages to users, such as reminders to provide feedback, rate a speaker, or any other important information you wish to convey.
+Announcements Board Setup
+
+#Basic Structure
+
+Announcements Board: A container that displays announcements or popups to users. It appears on the screen and contains the announcement content and a mechanism for users to close the message.
+        Header Section: The top part of the announcement, which usually contains the title of the message and a close button.
+        Content Section: The main area where the message, text, links, or images are displayed.
+
+
+        # Documentation for Event Management System
+
+
+User Interface Elements
+Add New
+
+    Add New: Button to create a new announcement.
+
+Duplicate
+
+    Duplicate: Button to create a copy of an existing announcement.
+
+Title and Edit
+
+    Title: Field where the title of the announcement is entered.
+    Edit: Button next to the title that allows modification of text formatting, addition of images, and inclusion of descriptions.
+
+Action Buttons
+
+    Send Notification: Button to send out the announcement to users.
+    Show in Announcements Board: Option to display the announcement on the announcements board.
+    Delete: Button to remove the announcement.
+
+Scheduling
+
+    Setup Schedule: Section to specify when the announcement should appear and disappear.
+        Open Time (Europe/Athens): Field to set the start time of the announcement.
+        Close Time (Europe/Athens): Field to set the end time of the announcement.
+
+Usage Instructions
+
+    Setting Up Announcement:
+        Click on Add New to create a new announcement.
+        Enter the title of the announcement in the provided field.
+        Click the Edit button to format the text, add images, or include a description.
+        Choose whether to Send Notification and/or Show in Announcements Board.
+        Optionally, set the Open Time and Close Time to schedule the announcement's visibility.
+        Click Save or Submit to finalize the announcement.
+
+    Duplicating an Announcement:
+        Click the Duplicate button next to the announcement you wish to copy.
+        Modify the title and content as needed.
+        Follow the same steps as setting up a new announcement.
+
+    Editing an Existing Announcement:
+        Select the announcement you wish to edit.
+        Modify the title, content, and scheduling options as needed.
+        Click Save or Submit to apply changes.
+
+    Deleting an Announcement:
+        Click the Delete button next to the announcement you want to remove.
+        Confirm the deletion when prompted.

@@ -1,0 +1,48 @@
+Documentation for Brainstorming Feature
+Overview
+
+The Brainstorming feature enables participants to submit their ideas in real-time during a session. These ideas can be moderated, categorized by tags, archived, or rejected by the organizer. This feature is designed to facilitate collaborative idea generation and allow the organizer to control the flow of incoming suggestions.
+User Interface
+1. Ideas Panel
+
+    Ideas Section: Displays the incoming ideas from participants.
+        This area will display any live ideas that have been submitted.
+        If no ideas have been submitted, the message "There are no ideas" will be displayed.
+
+2. Ideas Controls
+
+    Add Button (+ Add): Allows the organizer to manually add a new idea to the list.
+    Moderation Toggle: This switch enables or disables moderation. When moderation is enabled, incoming ideas need approval before being shown to participants.
+    Filter by Tag: A tool that filters ideas by specific tags, helping to categorize and organize the ideas based on themes or topics.
+
+3. Status Indicators
+
+    Live Ideas: Shows the count of current live ideas submitted by participants.
+    Archived Ideas: Displays the number of ideas that have been archived and are no longer part of the active brainstorming session.
+    Rejected Ideas: Displays the number of ideas that have been rejected, either because they were not relevant or inappropriate.
+
+4. Present Button
+
+    Present: This button allows the organizer to select and display a specific idea on the main screen for discussion or review.
+
+5. Other Features
+
+    Video Tutorials Button: Provides video tutorials to help the organizer understand how to use the brainstorming feature.
+    Notifications Toggle: This toggle switch enables or disables notifications for new incoming ideas, allowing the organizer to stay updated when new ideas are submitted.
+
+Usage Instructions
+1. Adding a New Idea
+
+    Click the + Add button to manually enter an idea into the brainstorming session.
+    Enter the idea's title and description, then click submit to add it to the live ideas list.
+
+2. Managing Incoming Ideas
+
+    Review incoming ideas as they are submitted by participants.
+    Use the Moderation toggle to approve or reject ideas before they are displayed to everyone.
+    Use the Filter by Tag option to sort ideas based on their category or theme.
+
+3. Presenting an Idea
+
+    Select the idea you want to present from the list of live ideas.
+    Click the Present button to show the idea on the main screen for discussion or further consideration.
